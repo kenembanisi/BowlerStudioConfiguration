@@ -11,12 +11,17 @@
     "https://gist.github.com/d281e0f2780ffac1708c226b2f4a18c8.git:helloWorld.groovy": [
       "https://gist.github.com/d281e0f2780ffac1708c226b2f4a18c8.git",
       "helloWorld.groovy"
+    ],
+    ":": [
+      "",
+      ""
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.0",
+    "fontsize": 12,
     "skinBranch": "0.25.2",
-    "skinRepo": "https://github.com/Octogonapus/BowlerStudioImageAssets.git",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
 }
