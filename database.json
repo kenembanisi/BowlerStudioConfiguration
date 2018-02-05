@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/83a0e6b3be368146fad0a6fbfa4e7cef.git:samplePart.groovy": [
-      "https://gist.github.com/83a0e6b3be368146fad0a6fbfa4e7cef.git",
-      "samplePart.groovy"
-    ],
-    "https://gist.github.com/2cdec25078e81730f4a995aa7a8c7e1a.git:javaCad.groovy": [
-      "https://gist.github.com/2cdec25078e81730f4a995aa7a8c7e1a.git",
-      "javaCad.groovy"
+    "https://gist.github.com/d281e0f2780ffac1708c226b2f4a18c8.git:helloWorld.groovy": [
+      "https://gist.github.com/d281e0f2780ffac1708c226b2f4a18c8.git",
+      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {
