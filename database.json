@@ -8,14 +8,22 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/d281e0f2780ffac1708c226b2f4a18c8.git:helloWorld.groovy": [
-      "https://gist.github.com/d281e0f2780ffac1708c226b2f4a18c8.git",
-      "helloWorld.groovy"
+    "https://gist.github.com/721302a0ff6d2809b997.git:javaCadHull.groovy": [
+      "https://gist.github.com/721302a0ff6d2809b997.git",
+      "javaCadHull.groovy"
+    ],
+    "https://gist.github.com/2cdec25078e81730f4a995aa7a8c7e1a.git:javaCad.groovy": [
+      "https://gist.github.com/2cdec25078e81730f4a995aa7a8c7e1a.git",
+      "javaCad.groovy"
+    ],
+    "https://gist.github.com/6cfc83012b3509525ce1f99147aaf609.git:cylinder.groovy": [
+      "https://gist.github.com/6cfc83012b3509525ce1f99147aaf609.git",
+      "cylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.0",
-    "fontsize": 28,
+    "fontsize": 14,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
